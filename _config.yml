@@ -22,14 +22,14 @@ repository               : "ay02/ay02.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "IMG_0990.jpeg"
+  name             : "Alessio Yang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UNIMORE"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alessioyang.02.work@gmail.com" 
 
   # Academic websites
   academia         : # URL
