@@ -55,20 +55,20 @@ Work experience
 
 Courses
 ======
-* Cisco - IT Essentials (2018 - 2019)
-* Cisco - CCNA Routing and Switching: Introduction to Networks (2019 - 2020)
 * Cisco - CCNA Routing and Switching: Routing and Switching Essentials (2020 - 2021)
+* Cisco - CCNA Routing and Switching: Introduction to Networks (2019 - 2020)
+* Cisco - IT Essentials (2018 - 2019)
 
 Challenges
 ======
-* CRT Foundation - Digital Math Training (DMT) (2019 - 2020)
-* Robotics Olympics - AI and Machine Learning (2019 - 2020)
+* Coding Jam - JEMORE (2024)
 * Nao Challenge - School of Robotics (2020 - 2021)
 * CINI - CyberChallenge.IT (2020 - 2021)
-* Coding Jam - JEMORE (2024)
+* CRT Foundation - Digital Math Training (DMT) (2019 - 2020)
+* Robotics Olympics - AI and Machine Learning (2019 - 2020)
 
 Languages
 ======
 * Italian - Native language
 * English - B2 level
-* Chinese - Fluent speaking, basic writing
+* Chinese - Fluent speaking
