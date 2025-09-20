@@ -75,5 +75,5 @@ Challenges
 Languages
 ======
 * Italian - Native language
-* English - B2 level
+* English - C1 level
 * Chinese - Fluent speaking
