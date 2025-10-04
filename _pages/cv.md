@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* BSc, University of Modena and Reggio Emilia
+* BSc, Computer Science, University of Modena and Reggio Emilia
   * Modena, Italy
   * 2023 - 2026 (Ongoing)
-* ERASMUS+, Warsaw University of Technology
+* ERASMUS+, Electronics and Information Technology, Warsaw University of Technology
   * Warsaw, Poland
   * Sep 2024 - Feb 2025
-* High School Diploma, I.I.S. Verona Trento
+* HS, IT and Telecommunications, I.I.S. Verona Trento
   * Messina, Italy
   * 2016 - 2021
 
