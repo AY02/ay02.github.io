@@ -17,7 +17,7 @@ Education
 * ERASMUS+, Electronics and Information Technology, Warsaw University of Technology
   * Warsaw, Poland
   * Sep 2024 - Feb 2025
-* HS, IT and Telecommunications, I.I.S. Verona Trento
+* HS, IT and Telecommunications, IIS Verona Trento
   * Messina, Italy
   * 2016 - 2021
 
@@ -28,15 +28,15 @@ Work experience
   * Modena, Italy
   * I support students in various aspects of academic life: from bureaucratic procedures and study plan guidance, to communication with offices and representatives, to support with teaching and study methods. As a point of reference and mediator, I accompany freshmen and students on their university journey.
 
+* Apr 2025 - Ongoing: DSA Tutor
+  * UNIMORE
+  * Modena, Italy
+  * I work with a student with Specific Learning Disabilities in his university career in computer science. My role consists of simplifying complex concepts, structuring a personalized study method, providing motivational support and adapting the teaching material to his needs, promoting autonomy and inclusion in the academic context.
+
 * Feb 2025 - Set 2025: Associate Assistant
   * UNIMORE
   * Modena, Italy
   * I carry out support activities in various areas of the university, including concierge, laboratories, libraries and orientation services. I deal with logistics management, reception and assistance to students and staff, contributing to the smooth running of academic and administrative activities. Thanks to my versatility, I provide operational support based on the needs of the university.
-
-* Apr 2025 - Aug 2025: DSA Tutor
-  * UNIMORE
-  * Modena, Italy
-  * I work with a student with Specific Learning Disabilities in his university career in computer science. My role consists of simplifying complex concepts, structuring a personalized study method, providing motivational support and adapting the teaching material to his needs, promoting autonomy and inclusion in the academic context.
 
 * Apr 2023 - May 2025: Bartender
   * Bar Rollbar
