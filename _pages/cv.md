@@ -13,13 +13,13 @@ Education
 ======
 * BSc, Computer Science, University of Modena and Reggio Emilia
   * Modena, Italy
-  * 2023 - 2026 (Ongoing)
+  * Aug 2023 - Jul 2026 (Ongoing)
 * ERASMUS+, Electronics and Information Technology, Warsaw University of Technology
   * Warsaw, Poland
   * Sep 2024 - Feb 2025
 * HS, IT and Telecommunications, IIS Verona Trento
   * Messina, Italy
-  * 2016 - 2021
+  * Sep 2016 - Jul 2021
 
 Work experience
 ======
@@ -66,6 +66,7 @@ Courses
 
 Challenges
 ======
+* CINI - CyberChallenge.IT (2025 - 2026) (Ongoing)
 * Coding Jam - JEMORE (2024)
 * Nao Challenge - School of Robotics (2020 - 2021)
 * CINI - CyberChallenge.IT (2020 - 2021)
