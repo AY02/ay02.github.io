@@ -19,4 +19,4 @@ Different experiences behind:
 
 Among other various skills: adaptability; cognitive flexibility; time management.
 
-Currently the goal is to specialize in the field of cybersecurity.
+Currently the goal is to specialize in the field of cybersecurity (especially blue team and cryptography).
