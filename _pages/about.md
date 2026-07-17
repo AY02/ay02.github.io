@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Full-time Computer Science student with a perfect GPA (30/30).
+Graduated in Computer Science with a perfect GPA (30/30).
 
 Different experiences behind:
 * developer of a rudimentary WMS for the family business
