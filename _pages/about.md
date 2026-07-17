@@ -15,7 +15,7 @@ Different experiences behind:
 * head of various school projects in the IT / robotics field
 * ex-waiter in the restaurant business
 * ex-bartender in coffee bar / cocktail bar
-* basic knowledge of various modern technologies (Flask, Flutter, Tensorflow, Angular, NodeJS, etc.)
+* basic knowledge of various modern technologies (Django, Flutter, etc.)
 
 Among other various skills: adaptability; cognitive flexibility; time management.
 
