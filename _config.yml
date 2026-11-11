@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Alessio Yang / Personal Portfolio"
 title_separator          : "-"
 name                     : &name "Alessio Yang"
-description              : &description "CS student at UNIMORE"
+description              : &description "Security Platform Engineer at Certego | Computer Science at UNIMORE"
 url                      : https://ay02.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ay02/ay02.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "IMG_0990.jpeg"
   name             : "Alessio Yang"
   pronouns         : "he/him"
-  bio              : "CS student at UNIMORE"
+  bio              : "Security Platform Engineer at Certego | Computer Science at UNIMORE"
   location         : "Modena, Italy"
   employer         : "UNIMORE"
   uri              : # URL
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "alessio-y-814b59201"
+  linkedin         : "alessio-yang"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
