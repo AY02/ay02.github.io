@@ -124,12 +124,12 @@ Work Experience
 
 ## Certifications
 
-- **Cisco CCNA (200-301)** | *In Progress*
-- **CompTIA Security+** | *Sep 2026*
-- **IELTS Academic 7.5** | British Council | *Sep 2025*
-- **CCNA Routing and Switching: Routing and Switching Essentials** | Cisco | *May 2021*
-- **CCNA Routing and Switching: Introduction to Networks** | Cisco | *Jun 2020*
-- **IT Essentials** | Cisco | *Jun 2019*
+- **Cisco CCNA (200-301)** – Cisco *(In Progress)*
+- **CompTIA Security+** – CompTIA *(Sep 2026)*
+- **IELTS Academic 7.5** – British Council *(Sep 2025)*
+- **CCNA Routing and Switching: Routing and Switching Essentials** – Cisco *(May 2021)*
+- **CCNA Routing and Switching: Introduction to Networks** – Cisco *(Jun 2020)*
+- **IT Essentials** – Cisco *(Jun 2019)*
 
 
 ## Languages
