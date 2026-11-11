@@ -7,16 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Graduated in Computer Science with a perfect GPA (30/30).
-
-Different experiences behind:
-* developer of a rudimentary WMS for the family business
-* repairer of cell phones and other devices
-* head of various school projects in the IT / robotics field
-* ex-waiter in the restaurant business
-* ex-bartender in coffee bar / cocktail bar
-* basic knowledge of various modern technologies (Django, Flutter, etc.)
-
-Among other various skills: adaptability; cognitive flexibility; time management.
-
-Currently the goal is to specialize in the field of cybersecurity (especially blue team and cryptography).
+As a Security Platform Engineer and a Computer Science graduate with top honors, my career is driven by an insatiable hunger for knowledge and a deep-rooted passion for cybersecurity, with a specialized focus on applied cryptography and formal verification. I am a forward-thinker who meticulously plans for long-term growth. My ultimate ambition is to bridge the gap between industry and academia: I am committed to advancing my professional career and building robust security infrastructures, while simultaneously pushing the boundaries of research by pursuing a Master's degree and a Ph.D. I thrive in challenging environments where rigorous theoretical study meets real-world technical application.
