@@ -9,58 +9,101 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Aug 2023 - Jul 2026: **BSc**, **Computer Science**, University of Modena and Reggio Emilia (Modena, Italy)
-  * Grade: 110/110 summa cum laude with special commendation
-  * GPA: 4.00/4.00
-  * Thesis title: Formal Analysis of Challenge-Response Protocols: From Clone Detection to Response Loss Mechanisms
-  * Relevant courses: Cyber-physical Security, CyberChallenge.IT 2026, Protocols and Network
-* Sep 2024 - Feb 2025: **ERASMUS+**, **Electronics and IT**, Warsaw University of Technology (Warsaw, Poland)
-  * GPA: 3.84/4.00
-  * Relevant courses: Cryptography and information security
-* Sep 2016 - Jul 2021: **HS**, **IT and Telecommunications**, IIS Verona Trento (Messina, Italy)
-  * Grade: 100/100
-  * Relevant courses: CyberChallenge.IT 2021 (affiliated with the University of Messina)
 
 Work experience
 ======
-* Apr 2025 - Jul 2026: **SLD Tutor**
-  * UNIMORE
-  * Modena, Italy
-  * I work with a student with Specific Learning Disabilities in his university career in computer science. My role consists of simplifying complex concepts, structuring a personalized study method, providing motivational support and adapting the teaching material to his needs, promoting autonomy and inclusion in the academic context.
+### **Security Platform Engineer** | Certego (VEM Group)
+*Modena, Italy • Oct 2026 – Present*
+- Developing and designing the backend architecture of the PanOptikon® SecOps platform.
+- Implementing robust backend services and features utilizing Python and Django to enhance security operations.
 
-* Set 2025 - Apr 2026: **Faculty Tutor**
-  * UNIMORE
-  * Modena, Italy
-  * I support students in various aspects of academic life: from bureaucratic procedures and study plan guidance, to communication with offices and representatives, to support with teaching and study methods. As a point of reference and mediator, I accompany freshmen and students on their university journey.
+### **Research Intern (Applied Cryptography)** | UNIMORE
+*Modena, Italy • Sep 2025 – Jul 2026*
+- Conducted academic research in applied cryptography, specializing in authentication protocols and system resilience (Forward Security).
+- Formally analyzed and designed Challenge-Response authentication protocols to ensure robust security guarantees in post-compromise scenarios.
 
-* Feb 2025 - Aug 2025: **Concierge Assistant**
-  * UNIMORE
-  * Modena, Italy
-  * I carry out support activities in various areas of the university, including concierge, laboratories, libraries and orientation services. I deal with logistics management, reception and assistance to students and staff, contributing to the smooth running of academic and administrative activities. Thanks to my versatility, I provide operational support based on the needs of the university.
+### **SLD Tutor (Specific Learning Disabilities)** | UNIMORE
+*Modena, Italy • Feb 2025 – Jul 2026*
+- Mentored a Computer Science student with Specific Learning Disabilities (SLD), adapting educational materials and teaching methods to meet specialized needs.
+- Simplified complex technical concepts and structured personalized study frameworks to promote the student's autonomy and full inclusion in the academic environment.
 
-* 2019 – 2024: Waiter / Bartender
+### **Faculty Tutor** | UNIMORE
+*Modena, Italy • Sep 2025 – Apr 2026*
+- Guided freshmen and peers through their university journey, acting as a mediator between students and academic departments.
+- Provided comprehensive support regarding administrative procedures, study plan orientations, and the optimization of personal study methods.
 
-Courses
-======
-* CompTIA - **Security+** (ongoing)
-* British Council - **IELTS Academic 7.5** (2025)
-* Cisco - **CCNA Routing and Switching: Routing and Switching Essentials** (2020 - 2021)
-* Cisco - **CCNA Routing and Switching: Introduction to Networks** (2019 - 2020)
-* Cisco - **IT Essentials** (2018 - 2019)
+### **Concierge & Administrative Assistant** | UNIMORE
+*Modena, Italy • Apr 2025 – Aug 2025*
+- Delivered operational and logistical support across multiple university facilities, including front desk reception, laboratories, and libraries.
+- Assisted students and academic staff daily, ensuring the seamless execution of administrative operations and orientation services.
 
-Challenges
-======
-* CINI - **CyberChallenge.IT** (2025 - 2026)
-* JEMORE - **Coding Jam** (2024)
-* School of Robotics - **Nao Challenge** (2020 - 2021)
-* CINI - **CyberChallenge.IT** (2020 - 2021)
-* CRT Foundation - **Digital Math Training (DMT)** (2019 - 2020)
-* Robotics Olympics - **AI and Machine Learning** (2019 - 2020)
+### **Waiter & Bartender** | Various Establishments
+*2019 – 2024*
+- Delivered fast-paced customer service in high-pressure environments, developing strong communication, multitasking, and problem-solving skills.
 
-Languages
-======
-* Italian - **Native language**
-* English - **C1 level**
-* Chinese - **Fluent speaking**
+
+## Education
+
+### **BSc in Computer Science** | University of Modena and Reggio Emilia
+*Modena, Italy • Sep 2023 – Jul 2026*
+- **Grade:** 110/110 summa cum laude with special commendation (GPA: 4.00/4.00)
+- **Thesis:** *Formal Analysis of Challenge-Response Protocols: From Clone Detection to Response Loss Mechanisms* (Supervisor: Prof. Luca Ferretti)
+- **Relevant Coursework:** Cyber-physical Security, CyberChallenge.IT 2026, Protocols and Network
+
+### **ERASMUS+, Electronics and IT** | Warsaw University of Technology
+*Warsaw, Poland • Sep 2024 – Feb 2025*
+- **GPA:** 3.84/4.00
+- **Relevant Coursework:** Cryptography and Information Security
+
+### **High School Diploma in IT and Telecommunications** | IIS Verona Trento
+*Messina, Italy • Sep 2016 – Jul 2021*
+- **Grade:** 100/100
+- **Relevant Coursework:** CyberChallenge.IT 2021 (affiliated with the University of Messina)
+
+
+## Certifications
+
+- **Cisco CCNA (200-301)** | *In Progress*
+- **CompTIA Security+** | *Sep 2026*
+- **IELTS Academic 7.5** | British Council | *Sep 2025*
+- **CCNA Routing and Switching: Routing and Switching Essentials** | Cisco | *May 2021*
+- **CCNA Routing and Switching: Introduction to Networks** | Cisco | *Jun 2020*
+- **IT Essentials** | Cisco | *Jun 2019*
+
+
+## Competitions & Challenges
+
+### **Hack-In-Towers 2026** | BOOM
+*Sep 2026*
+- Placed 3rd in the competitive cybersecurity CTF hackathon representing the VEM Group team.
+
+### **CyberChallenge.IT 2026** | UNIMORE & CINI
+*Feb 2026 – Jul 2026*
+- Competed as a finalist in the Italian national cybersecurity competition for young talents.
+
+### **Coding Jam** | JEMORE (UNIMORE)
+*Mar 2024*
+- Participated in a digital treasure hunt coding challenge focused on solving algorithmic problems.
+
+### **CyberChallenge.IT 2021** | University of Messina & CINI
+*Feb 2021 – Jul 2021*
+- Participated in the Italian national cybersecurity training program and competition.
+
+### **NAO Challenge 2021** | School of Robotics
+*Feb 2021 – Jun 2021*
+- Competed in a robotics contest focused on humanoid robot programming and real-world applications.
+
+### **Robotics Olympics: AI and Machine Learning** | School of Robotics
+*Jan 2020 – Jun 2020*
+- Promoted STEM education through robotics projects aimed at environmental solutions.
+
+### **Digital Math Training (DMT)** | CRT Foundation
+*Dec 2019 – May 2020*
+- Combined programming (using Maple) and mathematical problem-solving in real-world scenarios.
+
+
+## Languages
+
+- **Italian:** Native
+- **English:** C1 (Advanced)
+- **Chinese:** Conversational (Speaking only)
