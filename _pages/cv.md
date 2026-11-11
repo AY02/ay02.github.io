@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Work experience
+Work Experience
 ======
 ### **Security Platform Engineer** | Certego (VEM Group)
 *Modena, Italy • Oct 2026 – Present*
@@ -61,17 +61,17 @@ Work experience
 - **Relevant Coursework:** CyberChallenge.IT 2021 (affiliated with the University of Messina)
 
 
-## Certifications
+## Technical Skills
 
-- **Cisco CCNA (200-301)** | *In Progress*
-- **CompTIA Security+** | *Sep 2026*
-- **IELTS Academic 7.5** | British Council | *Sep 2025*
-- **CCNA Routing and Switching: Routing and Switching Essentials** | Cisco | *May 2021*
-- **CCNA Routing and Switching: Introduction to Networks** | Cisco | *Jun 2020*
-- **IT Essentials** | Cisco | *Jun 2019*
+- **Programming:** Python, C/C++, Java, Dart/Flutter
+- **Cybersecurity:** Cryptography, SIEM (Wazuh), CTFs
+- **AI & Data Science:** PyTorch, OpenCV, Pandas, NumPy
+- **Databases:** MySQL, SQLite, MongoDB, Firebase
+- **Web Development:** HTML, CSS, JavaScript, Django, Node.js
+- **Tools & Environments:** Git/GitHub, Linux (Daily User), Docker, Virtual Machines
 
 
-## Competitions & Challenges
+## Competitions
 
 ### **Hack-In-Towers 2026** | BOOM
 *Sep 2026*
@@ -100,6 +100,36 @@ Work experience
 ### **Digital Math Training (DMT)** | CRT Foundation
 *Dec 2019 – May 2020*
 - Combined programming (using Maple) and mathematical problem-solving in real-world scenarios.
+
+
+## Projects & Technical Experience
+
+### **AES Implementation in Python** | Warsaw University of Technology
+*2025*
+- Implemented AES encryption in Python with 128, 192, and 256-bit keys, supporting both ECB and CBC modes.
+- Developed the full key schedule and block operations from scratch.
+- **Repository:** [GitHub](https://github.com/AY02/AES-128-192-256-Implementation)
+
+### **Rudimentary Warehouse Management System (WMS)** | Family Business
+*2024*
+- Developed a lightweight WMS to manage goods entry and inventory for the family business.
+- Built a cross-platform frontend using Flutter connected to a Python backend for real-time product and database management.
+- **Repository:** [GitHub](https://github.com/AY02/Ping-Store-WMS)
+
+### **Device Repair Assistance** | Family Business
+*2022 – 2023*
+- Repaired smartphones, tablets, and computers, developing hands-on experience with hardware and software troubleshooting.
+- Gained practical skills in component assembly, diagnostics, and basic soldering.
+
+
+## Certifications
+
+- **Cisco CCNA (200-301)** | *In Progress*
+- **CompTIA Security+** | *Sep 2026*
+- **IELTS Academic 7.5** | British Council | *Sep 2025*
+- **CCNA Routing and Switching: Routing and Switching Essentials** | Cisco | *May 2021*
+- **CCNA Routing and Switching: Introduction to Networks** | Cisco | *Jun 2020*
+- **IT Essentials** | Cisco | *Jun 2019*
 
 
 ## Languages
